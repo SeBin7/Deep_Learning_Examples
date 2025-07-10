@@ -1,0 +1,38 @@
+# 가상환경
+.venv/
+env/
+venv/
+
+# Python 캐시 파일
+__pycache__/
+*.py[cod]
+*.so
+
+# Jupyter Notebook 체크포인트
+.ipynb_checkpoints/
+
+# VSCode 설정 파일
+.vscode/
+
+# macOS 시스템 파일
+.DS_Store
+
+# 로그 파일
+*.log
+
+# 모델 및 결과물 (선택)
+*.h5
+*.pt
+*.pth
+*.onnx
+*.tflite
+*.pb
+
+# 데이터 파일 (선택)
+*.csv
+*.xlsx
+*.npy
+*.npz
+
+# 백업 파일
+*~
